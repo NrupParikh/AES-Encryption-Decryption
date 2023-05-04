@@ -42,10 +42,6 @@ object AESCrypt {
     }
 }
 
-```
-Usage
-
-```kotlin
 AESCrypt.encrypt(password).toString()
 AESCrypt.decrypt(it.Password)
 
